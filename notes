@@ -1,0 +1,9 @@
+Ctrl + alt + L -------------- auto format
+Shift x2 -------------------- search
+Ctrl + / --------------------- comment out line
+
+Ctrl + Shift + / ------------------ comment out block of line
+
+Ctrl + I ------- implement required  methods
+Alt + Enter ----------- show recommendation to solve compiler error
+alt+ insert ----- maven impoirt
